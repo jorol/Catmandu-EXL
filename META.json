@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Tools for ALEPHXML and PNX records",
    "author" : [
       "Johann Rolschewski <rolschewski@gmail.com>"
    ],
@@ -36,7 +36,11 @@
       },
       "runtime" : {
          "requires" : {
-            "perl" : "5.008005"
+            "Catmandu" : "0.9103",
+            "Catmandu::MARC" : "0.207",
+            "Catmandu::SRU" : "0.032",
+            "XML::LibXML::Reader" : "2.0",
+            "perl" : "v5.10.1"
          }
       },
       "test" : {
@@ -46,6 +50,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/jorol/Catmandu-EXL/issues"
+      },
+      "homepage" : "https://github.com/jorol/Catmandu-EXL",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/jorol/Catmandu-EXL.git",
+         "web" : "https://github.com/jorol/Catmandu-EXL"
+      }
+   },
    "version" : "0.01"
 }
 
