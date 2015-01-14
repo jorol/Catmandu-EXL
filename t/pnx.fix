@@ -1,0 +1,11 @@
+marc_map('001a','pnx.control.recordid');
+add_field('pnx.control.sourcesystem','BVB');
+add_field('pnx.control.sourceformat','MAB');
+marc_map('037a','pnx.display.language');
+copy_field('pnx.display.language','pnx.facets.language');
+marc_map('100p','pnx.display.creator');
+copy_field('pnx.display.creator','pnx.search.creatorcontrib');
+marc_map('331a','pnx.display.title');
+copy_field('pnx.display.title','pnx.search.title')
+marc_map('540a','pnx.addData.isbn.$append');
+remove_field('record');

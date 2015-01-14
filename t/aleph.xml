@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:004602962</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000pM2.01200024------h</leader>
+          <controlfield tag="LDR">00000pM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">BV039697287</subfield>
+          </datafield>
+          <datafield tag="025" ind1="l" ind2="1">
+            <subfield code="a">LO 2011031757</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">BVBBV039697287</subfield>
+          </datafield>
+          <controlfield tag="030">z|1dkz|z|||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">US</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">s|||z|||</controlfield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">05</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="p">Polley, Jason S.</subfield>
+            <subfield code="9">(DE-588)1017046816</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Jane Smiley, Jonathan Franzen, Don DeLillo</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">narratives of everyday justice</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Jason S. Polley</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">New York [u.a.]</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Lang</subfield>
+          </datafield>
+          <datafield tag="425" ind1="-" ind2="1">
+            <subfield code="a">2011</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2011</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">VIII, 263 S.</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">Modern American literature ; 60</subfield>
+          </datafield>
+          <datafield tag="453" ind1="r" ind2="1">
+            <subfield code="a">BV011078064</subfield>
+          </datafield>
+          <datafield tag="455" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="456" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="517" ind1="-" ind2="1">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-1-4331-1294-2</subfield>
+            <subfield code="b">hbk</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-1-4539-0191-5</subfield>
+            <subfield code="b">e-book</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="u">http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;doc_number=024545907&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+          </datafield>
+          <datafield tag="700" ind1="b" ind2="1">
+            <subfield code="a">813/.54</subfield>
+          </datafield>
+          <datafield tag="700" ind1="c" ind2="1">
+            <subfield code="a">PS228.L39</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">HU 3451</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">HU 3677</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">HU 1819</subfield>
+          </datafield>
+          <datafield tag="740" ind1="p" ind2="1">
+            <subfield code="a">Smiley, Jane</subfield>
+            <subfield code="x">Criticism and interpretation</subfield>
+          </datafield>
+          <datafield tag="740" ind1="p" ind2="1">
+            <subfield code="a">Franzen, Jonathan</subfield>
+            <subfield code="x">Criticism and interpretation</subfield>
+          </datafield>
+          <datafield tag="740" ind1="p" ind2="1">
+            <subfield code="a">DeLillo, Don</subfield>
+            <subfield code="x">Criticism and interpretation</subfield>
+          </datafield>
+          <datafield tag="740" ind1="s" ind2="1">
+            <subfield code="a">Law in literature</subfield>
+          </datafield>
+          <datafield tag="740" ind1="s" ind2="1">
+            <subfield code="a">American literature</subfield>
+            <subfield code="y">20th century</subfield>
+            <subfield code="x">History and criticism</subfield>
+          </datafield>
+          <datafield tag="740" ind1="s" ind2="1">
+            <subfield code="a">American literature</subfield>
+            <subfield code="y">21st century</subfield>
+            <subfield code="x">History and criticism</subfield>
+          </datafield>
+          <datafield tag="740" ind1="s" ind2="1">
+            <subfield code="a">Justice in literature</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="p">Smiley, Jane</subfield>
+            <subfield code="d">1949-</subfield>
+            <subfield code="9">(DE-588)119484358</subfield>
+            <subfield code="2">1</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="p">Franzen, Jonathan</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="9">(DE-588)124075746</subfield>
+            <subfield code="2">1</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="p">DeLillo, Don</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+            <subfield code="2">1</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Roman</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+            <subfield code="2">1</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Gerechtigkeit</subfield>
+            <subfield code="h">Motiv</subfield>
+            <subfield code="9">(DE-588)4137041-7</subfield>
+            <subfield code="2">1</subfield>
+          </datafield>
+          <datafield tag="907" ind1="-" ind2="1">
+            <subfield code="g">USA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="907" ind1="-" ind2="1">
+            <subfield code="s">Roman</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+          </datafield>
+          <datafield tag="907" ind1="-" ind2="1">
+            <subfield code="s">Recht</subfield>
+            <subfield code="h">Motiv</subfield>
+            <subfield code="9">(DE-588)4121561-8</subfield>
+          </datafield>
+          <controlfield tag="SYS">004602962</controlfield>
+          <datafield tag="LOW" ind1="-" ind2="1">
+            <subfield code="a">FUBA1</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Franzen, Gʾonatan</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="9">(DE-588)124075746</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Franzen, Gʾonatan</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="9">(DE-588)124075746</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Birdwell, Cleo</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Lillo, Don &lt;&lt;de&gt;&gt;</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">De Lillo, Don</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Birdwell, Cleo</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Lillo, Don &lt;&lt;de&gt;&gt;</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">De Lillo, Don</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="s">Prosaroman</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="s">Romane</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="s">Prosaroman</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="s">Romane</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">United States of America</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten von Amerika</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Nordamerika</subfield>
+            <subfield code="h">USA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Amerika</subfield>
+            <subfield code="h">USA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">United States</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats Unis</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats-Unis</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Estados Unidos de America</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">EEUU</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten von Nordamerika</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Soedinennye Štaty Ameriki</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">SŠA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Stany Zjednoczone Ameryki Północnej</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Hēnōmenai Politeiai tēs Boreiu Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Hēnōmenes Politeies tēs Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">HēPA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Ēnōmenes Politeies tēs Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">ĒPA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Meiguo</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats-Unis d'Amérique</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">US</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">United States of America</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten von Amerika</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Nordamerika</subfield>
+            <subfield code="h">USA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Amerika</subfield>
+            <subfield code="h">USA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">United States</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats Unis</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats-Unis</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Estados Unidos de America</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">EEUU</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten von Nordamerika</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Soedinennye Štaty Ameriki</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">SŠA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Stany Zjednoczone Ameryki Północnej</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Hēnōmenai Politeiai tēs Boreiu Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Hēnōmenes Politeies tēs Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">HēPA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Ēnōmenes Politeies tēs Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">ĒPA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Meiguo</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats-Unis d'Amérique</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">US</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Franzen, Gʾonatan</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="9">(DE-588)124075746</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Franzen, Gʾonatan</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="9">(DE-588)124075746</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Birdwell, Cleo</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Lillo, Don &lt;&lt;de&gt;&gt;</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">De Lillo, Don</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Birdwell, Cleo</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">Lillo, Don &lt;&lt;de&gt;&gt;</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="p">De Lillo, Don</subfield>
+            <subfield code="d">1936-</subfield>
+            <subfield code="9">(DE-588)118889664</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="s">Prosaroman</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="s">Romane</subfield>
+            <subfield code="9">(DE-588)4050479-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">United States of America</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten von Amerika</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Nordamerika</subfield>
+            <subfield code="h">USA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Amerika</subfield>
+            <subfield code="h">USA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">United States</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats Unis</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats-Unis</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Estados Unidos de America</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">EEUU</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Vereinigte Staaten von Nordamerika</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Soedinennye Štaty Ameriki</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">SŠA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Stany Zjednoczone Ameryki Północnej</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Hēnōmenai Politeiai tēs Boreiu Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Hēnōmenes Politeies tēs Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">HēPA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Ēnōmenes Politeies tēs Amerikēs</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">ĒPA</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Meiguo</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">Etats-Unis d'Amérique</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="SWW" ind1="-" ind2="1">
+            <subfield code="g">US</subfield>
+            <subfield code="9">(DE-588)4078704-7</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1="" ind2="">
+            <subfield code="a">SRU</subfield>
+            <subfield code="l">FUB01</subfield>
+            <subfield code="b">000518505</subfield>
+            <subfield code="m">60.^Polley, Jason S.:^Jane Smiley, Jonathan Franzen, Don DeLillo.^2011</subfield>
+            <subfield code="n">Modern American literature.^</subfield>
+          </datafield>
+          <datafield tag="AVA" ind1="" ind2="">
+            <subfield code="a">FUB50</subfield>
+            <subfield code="b">144</subfield>
+            <subfield code="c">Freihand</subfield>
+            <subfield code="d">813.54/P773</subfield>
+            <subfield code="e">unavailable</subfield>
+            <subfield code="t">Nicht verfügbar</subfield>
+            <subfield code="f">1</subfield>
+            <subfield code="g">1</subfield>
+            <subfield code="h">N</subfield>
+            <subfield code="i">0</subfield>
+            <subfield code="j">MAG-F</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1="" ind2="">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">144</subfield>
+            <subfield code="b">MAG-F</subfield>
+            <subfield code="d">813.54/P773</subfield>
+            <subfield code="i">144/2013/369</subfield>
+            <subfield code="n">01</subfield>
+            <subfield code="k">20130411</subfield>
+            <subfield code="m"></subfield>
+            <subfield code="s">4350964188</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aleph-publish:004602962</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000pM2.01200024------h</leader>
+          <controlfield tag="LDR">00000pM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">BV039697288</subfield>
+          </datafield>
+          <datafield tag="025" ind1="l" ind2="1">
+            <subfield code="a">LO 2011031757</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">BVBBV039697287</subfield>
+          </datafield>
+          <controlfield tag="030">z|1dkz|z|||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">US</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">s|||z|||</controlfield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">05</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="p">Polley, Jason S.</subfield>
+            <subfield code="9">(DE-588)1017046816</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Jane Smiley, Jonathan Franzen, Don DeLillo</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">narratives of everyday justice</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Jason S. Polley</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">New York [u.a.]</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Lang</subfield>
+          </datafield>
+          <datafield tag="425" ind1="-" ind2="1">
+            <subfield code="a">2011</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2011</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">VIII, 263 S.</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">Modern American literature ; 60</subfield>
+          </datafield>
+          <datafield tag="453" ind1="r" ind2="1">
+            <subfield code="a">BV011078064</subfield>
+          </datafield>
+          <datafield tag="455" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="456" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="517" ind1="-" ind2="1">
+            <subfield code="a">Includes bibliographical references and index</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-1-4331-1294-2</subfield>
+            <subfield code="b">hbk</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-1-4539-0191-5</subfield>
+            <subfield code="b">e-book</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="u">http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;doc_number=024545907&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
