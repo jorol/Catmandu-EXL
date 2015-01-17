@@ -6,49 +6,64 @@ use Moo;
 with 'Catmandu::Exporter';
 
 has record          => ( is => 'ro', default => sub {'record'} );
-has xml_declaration => ( is => 'ro', default => sub {0} );
-has _n              => ( is => 'rw', default => sub {0} );
+has xml_declaration => ( is => 'ro', default => sub { 0 } );
+has collection      => ( is => 'ro' , default => sub { 0 } );
+has _n              => ( is => 'rw', default => sub { 0 } );
+
+# ToDo:
+# https://github.com/dtulibrary/finditproxy/blob/master/xsd/primo_nm_bib.xsd
+# set namespace
+# use LibXML
+# define root element
 
 sub add {
     my ( $self, $data ) = @_;
 
+    my $xml = "";
+
     if ( $self->_n == 0 ) {
         if ( $self->xml_declaration ) {
-            $self->fh->print(Catmandu::Util::xml_declaration);
+            $xml .= Catmandu::Util::xml_declaration;
+        }
+        if ($self->collection) {
+            $xml .= '<PrimoNMBib>';
         }
         $self->_n(1);
     }
 
-    $self->fh->print('<record>');
+    $xml .= '<record>';
 
     my $record = $data->{pnx};
 
     foreach my $main_entry ( sort keys %{$record} ) {
-        $self->fh->print("<$main_entry>");
+        $xml .= "<$main_entry>";
         foreach my $sub_entry ( sort keys %{ $record->{$main_entry} } ) {
             my $content = $record->{$main_entry}->{$sub_entry};
             if ( ref $content eq 'ARRAY' ) {
-                $self->fh->print(
-                    "<$sub_entry>" . xml_escape($_) . "</$sub_entry>" )
-                    for @{$content};
+                $xml .= "<$sub_entry>" . xml_escape($_) . "</$sub_entry>" for @{$content};
 
             }
             else {
-                $self->fh->print(
-                    "<$sub_entry>" . xml_escape($content) . "</$sub_entry>" );
+                $xml .= "<$sub_entry>" . xml_escape($content) . "</$sub_entry>";
             }
         }
-        $self->fh->print("</$main_entry>");
+        $xml .= "</$main_entry>";
     }
 
-    $self->fh->print('</record>');
+    $xml .= '</record>';
+    $self->fh->print($xml);
 }
 
 sub commit {
     my ($self) = @_;
 
+    if($self->collection){
+        $self->fh->print('</PrimoNMBib>');
+    }
+
     $self->fh->flush;
 }
+
 
 1;
 
