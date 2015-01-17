@@ -2,5 +2,9 @@ Revision history for Catmandu-EXL
 
 {{$NEXT}}
 
+0.02  2015-01-17 17:06:34 CET
+        - add params to PNX exporter
+        - add fix
+
 0.01  2015-01-14 17:58:28 CET
         - Initial release
