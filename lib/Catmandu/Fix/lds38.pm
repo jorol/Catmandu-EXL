@@ -22,4 +22,30 @@ sub fix {
     $data;
 }
 
+=head1 NAME
+ 
+Catmandu::Fix::lds38 - custom Fix for PNX element <lds38>
+ 
+=head1 SYNOPSIS
+ 
+    # get subfields in sorted order, join them and store them in tmp variable
+    marc_map('PLKanb','tmp.plk.$append', -pluck => 1, -join => '~~~')
+    # split string to array
+    split_field('tmp.plk.*','~~~')
+    # apply fix on given path
+    lds38('tmp.plk')
+    remove_field('tmp.plk')
+
+=head1 DESCRPTION
+
+The datastructure referenced by 'path' must be an array of arrays ([[$sf_a, $sf_n, $sf_b],...])
+
+Checks if subfield 'a' matches 'SDR' and adds new element to path 'pnx.display.lds38'.
+
+=head1 SEE ALSO
+ 
+L<Catmandu::Fix>, L<Catmandu::EXL>.
+ 
+=cut
+
 1;
